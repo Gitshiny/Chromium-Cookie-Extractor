@@ -13,7 +13,7 @@ This tool is able to decrypt cookies from the newest Chrome, Edge and other Chro
 ### How does it work:
 Once the person starts the infected file (or it can be uploaded with manually using a RAT), you`ll be able to grab cookies from all the existing chrome profiles. The remote controllling is realised completely via telegram. The tool has several additional option to make the usage more comfortable, like screenshot grabbing etc. The tools permits to control several PCs at the same time with the same telegram bot. Here are some screenshots:
 #### Builder:
-![image](https://github.com/user-attachments/assets/75b875ec-8ca0-4596-b90a-d10b7e0b4063)
+![image](https://github.com/user-attachments/assets/465ac97c-5eb2-4ac8-8097-f1b5881ffcb6)
 
 #### Avaliable commands:
 ![image](https://github.com/user-attachments/assets/918f58d6-f0a9-46d9-8dde-d48003a91a50)
