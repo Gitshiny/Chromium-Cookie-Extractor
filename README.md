@@ -1,5 +1,5 @@
 # 🍪Chromium Cookie extractor
-This is a tool which permits to retrieve cookies from the latest versions of the Google Chrome browser (both 129+ and older versions), Microsoft Edge and other Chromium-based browsers, it is fully controlled via telegram bot and doesn`t requiere nor a dedicated server neither any additional software, you can read how exactly does it work below. Contact me on Telegram to buy: **@shinyenigma**
+This is a tool which permits to retrieve cookies from the latest versions of the Google Chrome (both 129+ and older versions), Microsoft Edge and other Chromium-based browsers, it is fully controlled via telegram bot and doesn`t requiere nor a dedicated server neither any additional software, you can read how exactly does it work below. Contact me on Telegram to buy: **@shinyenigma**
 
 ## 🌐About the issue:
 Since august of 2024 Google Chrome is user a new type of cookie protection called Device Bound Session Credentials (DBSC). Because of it, the decryption of Chrome`s cookies has become much more complicated. Here is the idea of this type of protection:
