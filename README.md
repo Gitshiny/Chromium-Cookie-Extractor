@@ -19,6 +19,6 @@ Once the person starts the infected file (or it can be uploaded with manually us
 ![image](https://github.com/user-attachments/assets/918f58d6-f0a9-46d9-8dde-d48003a91a50)
 
 #### Grabbing cookies (NETSCAPE format):
-![image](https://github.com/user-attachments/assets/d7bbf1f6-f765-4acc-b098-dead9d9cd2dd)
+![image](https://github.com/user-attachments/assets/f304635d-ef52-49a3-a0ed-43ee45380262)
 
 ## ♦️DISCLAIMER: This tool is for educational purposes only, I do not take any responsibility for the potencial damage caused with it
