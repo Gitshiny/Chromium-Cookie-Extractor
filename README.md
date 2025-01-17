@@ -8,7 +8,7 @@ Since august of 2024 Google Chrome is user a new type of cookie protection calle
 Here you can see more about this topic: [Click](https://security.googleblog.com/2024/07/improving-security-of-chrome-cookies-on.html?m=1)
 In the end of october 2024 Microsoft Edge has introduced the same protection, which made the old cookie grabbing method useless of more then 77% of users (about 65% of users worldwide use Chrome and about 12% use Microsoft Edge). So, I`ve decided to develop a solution to this problem
 
-## 🔑About the tool: 
+## 🔑About the tool:
 This tool is able to decrypt cookies from the newest Chrome, Edge and other Chromium-based browsers without admin priveleges. It can be used as an addition to any remote access tool (RAT) or stealer as most of them have lost the possibility to grab cookies from Chrome and Edge since this security update was released
 ### How does it work:
 Once the person starts the infected file (or it can be uploaded with manually using a RAT), you`ll be able to grab cookies from all the existing chrome profiles. The remote controllling is realised completely via telegram. The tool has several additional option to make the usage more comfortable, like screenshot grabbing etc. The tools permits to control several PCs at the same time with the same telegram bot. Here are some screenshots:
