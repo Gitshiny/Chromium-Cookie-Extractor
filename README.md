@@ -1,5 +1,5 @@
 # DotStealer
-A multifunctional Windows stealer which sends logs via telegram bot (no dedicated server needed). ✨The price for a lifetime license is 30$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
+A multifunctional Windows stealer which sends logs via telegram bot (no dedicated server needed). ✨The price for a lifetime license is only 30$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 ## Features 
 <br>🔹NEW: App-Bound cookie protection bypass (no admin privileges needed)
 <br>🔸Easy-to-use compact builder
