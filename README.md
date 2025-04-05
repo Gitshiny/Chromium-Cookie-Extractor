@@ -4,7 +4,6 @@ A multifunctional Windows stealer which sends logs via telegram bot (no dedicate
 
 <br>🔹NEW: The file size was significantly decreased
 <br>🔹NEW: Grabbing the complete list of the installed software
-
 <br>🔸Easy-to-use compact builder
 <br>🔸Client works on Windows 7 and higher (32 and 64 bit)
 <br>🔸Anti doble-launch
