@@ -2,8 +2,8 @@
 A multifunctional Windows stealer which sends logs via telegram bot (no dedicated server needed). ✨The price for a lifetime license is 30$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 ## Features 
 
-🔹NEW: The file size was significantly decreased
-🔹NEW: Grabbing the complete list of the installed software
+<br>🔹NEW: The file size was significantly decreased
+<br>🔹NEW: Grabbing the complete list of the installed software
 
 <br>🔸Easy-to-use compact builder
 <br>🔸Client works on Windows 7 and higher (32 and 64 bit)
